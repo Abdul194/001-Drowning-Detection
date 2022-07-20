@@ -1,0 +1,10 @@
+1=> Download video dataset from youtube.
+2=> convert video to images using online tool.
+3=> annotate 100 images and train yolo5 on them.
+4=> Annotation were not good by intern thats why model rises problems. (i.e. all objects are labels the not drowning class).
+5=> convert video to images by frame.py code using frame rate.
+6=> annotate 280 images (train=250, val=30).
+7=> Train model on the new annotated dataset.
+
+
+Note: Use yolo5 custom training dataset repo of GitHub.
