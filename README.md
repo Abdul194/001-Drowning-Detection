@@ -1,4 +1,4 @@
-# Drawing-Detection Using Yolo V5
+# Drowning-Detection Using Yolo V5
 
 ## Introduction
 The aim of this project is to detect the drowning person in swimming area and alarm the authority for timely rescue.
